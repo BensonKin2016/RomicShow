@@ -43,6 +43,11 @@
       "name": "publication-figure",
       "description": "生成A4发表级组合图",
       "prompt_file": "prompts/publication_figure.md"
+    },
+    {
+      "name": "compose",
+      "description": "交互式组图编排器 (Shiny界面/命令行)",
+      "prompt_file": "prompts/interactive_composer.md"
     }
   ],
   "tags": ["R", "bioinformatics", "omics", "visualization", "proteomics", "transcriptomics"],

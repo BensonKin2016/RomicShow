@@ -18,6 +18,7 @@
 | `/venn` | 韦恩图/UpSet图 |
 | `/pca-umap` | 降维分析 |
 | `/publication-figure` | 发表级组合图 |
+| `/compose` | 交互式组图编排器 |
 
 ## 安装要求
 
@@ -28,7 +29,8 @@
 install.packages(c(
   "tidyverse", "ggplot2", "ggrepel", "patchwork", "cowplot",
   "circlize", "pheatmap", "ggVennDiagram", "VennDiagram",
-  "igraph", "ggraph", "tidygraph", "umap", "FactoMineR", "factoextra"
+  "igraph", "ggraph", "tidygraph", "umap", "FactoMineR", "factoextra",
+  "shiny", "shinydashboard", "sortable", "gridExtra"
 ))
 
 # Bioconductor包
