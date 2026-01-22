@@ -1,6 +1,6 @@
 {
-  "name": "biomedical-r-viz",
-  "description": "R语言生物医药组学数据分析与可视化工具包 - Biomedical Omics Data Analysis & Visualization Toolkit in R",
+  "name": "RomicShow",
+  "description": "R语言组学数据分析与可视化工具包 - R Omics Data Analysis & Visualization Toolkit",
   "version": "1.0.0",
   "author": "Your Name",
   "commands": [

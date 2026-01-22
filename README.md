@@ -1,6 +1,6 @@
-# MutiOmics R Visualization Skill
+# RomicShow
 
-基于R语言的组学数据分析与可视化工具包
+R语言组学数据分析与可视化工具包 | R Omics Data Visualization Toolkit
 
 ## 简介
 
